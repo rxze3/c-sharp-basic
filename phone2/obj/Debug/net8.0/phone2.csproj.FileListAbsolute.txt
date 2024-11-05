@@ -1,0 +1,14 @@
+C:\Users\roze71\source\repos\phone2\bin\Debug\net8.0\phone2.exe
+C:\Users\roze71\source\repos\phone2\bin\Debug\net8.0\phone2.deps.json
+C:\Users\roze71\source\repos\phone2\bin\Debug\net8.0\phone2.runtimeconfig.json
+C:\Users\roze71\source\repos\phone2\bin\Debug\net8.0\phone2.dll
+C:\Users\roze71\source\repos\phone2\bin\Debug\net8.0\phone2.pdb
+C:\Users\roze71\source\repos\phone2\obj\Debug\net8.0\phone2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roze71\source\repos\phone2\obj\Debug\net8.0\phone2.AssemblyInfoInputs.cache
+C:\Users\roze71\source\repos\phone2\obj\Debug\net8.0\phone2.AssemblyInfo.cs
+C:\Users\roze71\source\repos\phone2\obj\Debug\net8.0\phone2.csproj.CoreCompileInputs.cache
+C:\Users\roze71\source\repos\phone2\obj\Debug\net8.0\phone2.dll
+C:\Users\roze71\source\repos\phone2\obj\Debug\net8.0\refint\phone2.dll
+C:\Users\roze71\source\repos\phone2\obj\Debug\net8.0\phone2.pdb
+C:\Users\roze71\source\repos\phone2\obj\Debug\net8.0\phone2.genruntimeconfig.cache
+C:\Users\roze71\source\repos\phone2\obj\Debug\net8.0\ref\phone2.dll
